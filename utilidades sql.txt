@@ -1,0 +1,7 @@
+-- utilidades sql
+
+-- borrar todas las tablas
+SELECT 'DROP TABLE SYSTEM.'||OBJECT_NAME||';'  FROM  ALL_OBJECTS WHERE OWNER='SYSTEM' 
+AND OBJECT_TYPE='TABLE' AND TIMESTAMP>'2001-05-08:08:00:00';
+
+

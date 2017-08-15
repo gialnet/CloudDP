@@ -1,0 +1,337 @@
+
+Error que empieza en la línea 17 del comando:
+CREATE SEQUENCE s_clientes
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:17 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 25 del comando:
+CREATE SEQUENCE s_peticiones
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:25 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 33 del comando:
+CREATE SEQUENCE s_hilos
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:33 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 41 del comando:
+CREATE SEQUENCE s_gremios
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:41 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 49 del comando:
+CREATE SEQUENCE s_servicios
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:49 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 57 del comando:
+CREATE SEQUENCE s_consumos
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:57 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 65 del comando:
+CREATE SEQUENCE s_facturas
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:65 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 73 del comando:
+CREATE SEQUENCE s_doc_custodia
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NOMAXVALUE
+    nocycle
+    noorder
+Error en la línea de comandos:73 Columna:16
+Informe de error:
+Error SQL: ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+
+Error que empieza en la línea 337 del comando:
+TABLA DE CONSUMOS DE SERVICIOS
+Informe de error:
+Comando desconocido
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+
+Error que empieza en la línea 497 del comando:
+ALTER TABLE USOS_CERTIFICADO ADD CONSTRAINT ALMACENCERT_USOS_CERTIFICADO 
+    FOREIGN KEY (ID) REFERENCES ALMACENCERT (USO_CERTIFICADO)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+ ALTER TABLE TRANSACCIONES correcto.
+ ALTER TABLE SERVICIOS_CONTRATADOS correcto.
+
+Error que empieza en la línea 506 del comando:
+ALTER TABLE SERVICIOS ADD CONSTRAINT CONSUMOS_SERVICIOS 
+    FOREIGN KEY (ID) REFERENCES CONSUMOS (ID_SERVICIO)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+ ALTER TABLE PETICIONES correcto.
+ ALTER TABLE HILOS correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+
+Error que empieza en la línea 518 del comando:
+ALTER TABLE DOC_CUSTODIA ADD CONSTRAINT Docs_Metadatos_DOC_CUSTODIA 
+    FOREIGN KEY (ID) REFERENCES Docs_Metadatos (ID_DOC)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+
+Error que empieza en la línea 521 del comando:
+ALTER TABLE CLIENTES ADD CONSTRAINT USUARIOS_CLIENTES 
+    FOREIGN KEY (ID) REFERENCES USUARIOS (IDCLIENTE)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+ ALTER TABLE ALMACENCERT correcto.
+
+Error que empieza en la línea 527 del comando:
+ALTER TABLE ALMACENCERT ADD CONSTRAINT DOC_CUSTODIA_ALMACENCERT 
+    FOREIGN KEY (ID, ID) REFERENCES DOC_CUSTODIA (ALMACENCERT,ID)
+Informe de error:
+Error SQL: ORA-00957: nombre de columna duplicado
+00957. 00000 -  "duplicate column name"
+*Cause:    
+*Action:
+ ALTER TABLE CONSUMOS correcto.
+ ALTER TABLE FACTURAS correcto.
+
+Error que empieza en la línea 536 del comando:
+ALTER TABLE FACTURAS ADD CONSTRAINT FISCALIDAD_FACTURAS 
+    FOREIGN KEY (ID) REFERENCES FISCALIDAD (IDFactura)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+ ALTER TABLE FACTURA_DETALLE correcto.
+ ALTER TABLE ALIAS_CLIENTES correcto.
+
+Error que empieza en la línea 545 del comando:
+ALTER TABLE GREMIOS ADD CONSTRAINT USUARIOS_GREMIOS 
+    FOREIGN KEY (ID) REFERENCES USUARIOS (IDCLIENTE)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+
+Error que empieza en la línea 548 del comando:
+ALTER TABLE GREMIOS ADD CONSTRAINT Gremios_Corpus_GREMIOS 
+    FOREIGN KEY (ID) REFERENCES Gremios_Corpus (ID_GREMIO)
+Informe de error:
+Error SQL: ORA-02270: no hay ninguna clave única o primaria correspondiente para esta lista de columnas
+02270. 00000 -  "no matching unique or primary key for this column-list"
+*Cause:    A REFERENCES clause in a CREATE/ALTER TABLE statement
+           gives a column-list for which there is no matching unique or primary
+           key constraint in the referenced table.
+*Action:   Find the correct column names using the ALL_CONS_COLUMNS
+           catalog view
+ ALTER TABLE INVITADOS correcto.
+PROCEDURE CHECKUSER compilado
+Errors: check compiler log
+
+Error que empieza en la línea 606 del comando:
+CREATE PROCEDURE ADD_NuevaPeticionAsesor
+(xIndirecto IN INTEGER, xCliente IN INTEGER,xMensaje IN VARCHAR2,xAsunto in VARCHAR2)
+AS
+xid_peti INTEGER;
+BEGIN
+
+    INSERT INTO peticiones (asunto,remitente,id_indirecto,id_cliente)
+    VALUES (xAsunto,xCliente,xIndirecto,xCliente) returning id into xid_peti;
+    INSERT INTO  hilos (mensaje,remitente,id_peticion)
+    VALUES (xMensaje,xCliente,xid_peti);
+		
+
+
+
+END;
+Informe de error:
+ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+
+Error que empieza en la línea 624 del comando:
+CREATE PROCEDURE ADD_NuevaPeticionCliente
+(xIndirecto IN INTEGER,xMensaje IN VARCHAR2,xAsunto in VARCHAR2)
+AS
+xid_peti INTEGER;
+xid_cliente integer;
+BEGIN
+    select id into xid_cliente from clientes where id=xIndirecto;
+
+    INSERT INTO peticiones (asunto,remitente, id_indirecto, id_cliente)
+    VALUES (xAsunto,xIndirecto,xIndirecto,xid_cliente) returning id into xid_peti;
+	
+    INSERT INTO  hilos (mensaje,remitente,id_peticion)
+    VALUES (xMensaje,xIndirecto,xid_peti);
+		
+
+
+
+END;
+Informe de error:
+ORA-00955: este nombre ya lo está utilizando otro objeto existente
+00955. 00000 -  "name is already used by an existing object"
+*Cause:    
+*Action:
+TRIGGER TRG_SERVICIOS1 compilado
+TRIGGER TRG_DOC_CUSTODIA1 compilado
+TRIGGER TRG_ADDCLIENTES compilado
+TRIGGER TRG_ADD_PETICIONES compilado
+Errors: check compiler log
+TRIGGER TRG_ADD_HILOS compilado
+Errors: check compiler log
+TRIGGER TRG_ACT_PETI compilado
+Errors: check compiler log
+TRIGGER TRG_CONSUMOS compilado
+TRIGGER TRG_FACTURAS compilado
+TRIGGER TRG_GREMIOS1 compilado

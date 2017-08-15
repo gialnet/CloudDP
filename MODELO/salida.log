@@ -1,0 +1,919 @@
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE SEQUENCE correcto.
+CREATE TABLE correcto.
+
+Error que empieza en la línea 198 del comando:
+CREATE UNIQUE INDEX IDX_USUARIOS_1 ON USUARIOS (MOVIL) unique
+Error en la línea de comandos:198 Columna:55
+Informe de error:
+Error SQL: ORA-02158: opción CREATE INDEX no válida
+02158. 00000 -  "invalid CREATE INDEX option"
+*Cause:    An option other than COMPRESS, NOCOMPRESS, PCTFREE, INITRANS,
+           MAXTRANS, STORAGE, TABLESPACE, PARALLEL, NOPARALLEL, RECOVERABLE,
+           UNRECOVERABLE, LOGGING, NOLOGGING, LOCAL, or GLOBAL was specified.
+*Action:   Choose one of the valid CREATE INDEX options.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE INDEX correcto.
+CREATE INDEX correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+CREATE TABLE correcto.
+COMMENT ON correcto.
+CREATE TABLE correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+ ALTER TABLE DOC_CUSTODIA correcto.
+ ALTER TABLE Docs_Metadatos correcto.
+ ALTER TABLE ALMACENCERT correcto.
+ ALTER TABLE USUARIOS correcto.
+ ALTER TABLE GRUPOS_DTOS correcto.
+ ALTER TABLE GRUPOS_DTOS correcto.
+ ALTER TABLE GRUPOS_DTOS correcto.
+ ALTER TABLE CLIENTES correcto.
+ ALTER TABLE CLIENTES correcto.
+ ALTER TABLE INVITADOS correcto.
+ ALTER TABLE CONSUMOS correcto.
+ ALTER TABLE CONSUMOS correcto.
+ ALTER TABLE CONSUMOS correcto.
+ ALTER TABLE TRANSACCIONES correcto.
+ ALTER TABLE SERVICIOS_CONTRATADOS correcto.
+ ALTER TABLE PETICIONES correcto.
+ ALTER TABLE HILOS correcto.
+ ALTER TABLE FACTURAS correcto.
+ ALTER TABLE FISCALIDAD correcto.
+ ALTER TABLE FACTURA_DETALLE correcto.
+TRIGGER TRG_TRANSACCIONES1 compilado
+TRIGGER TRG_SERVICIOS1 compilado
+TRIGGER TRG_PETICIONES1 compilado
+TRIGGER TRG_HILOS1 compilado
+TRIGGER TRG_DOC_CUSTODIA1 compilado
+TRIGGER TRG_CLIENTES1 compilado
+TRIGGER TRG_ALMACENCERT1 compilado
+TRIGGER TRG_CONSUMOS compilado
+TRIGGER TRG_FACTURAS compilado
+TRIGGER TRG_GREMIOS1 compilado
+TRIGGER TRG_INVITADOS1 compilado
+TRIGGER TRG_SESIONES1 compilado
+TRIGGER TRG_DEPARTAMENTOS1 compilado
+TRIGGER TRG_GRUPOS1 compilado
+TRIGGER TRG_WORKFORCE1 compilado
+TRIGGER TRG_CONSULTAS1 compilado
+TRIGGER TRG_TIPOS_DOC1 compilado
+TRIGGER TRG_WEB_PERSONAL1 compilado
+Errors: check compiler log
+TRIGGER TRG_TABLON compilado
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+1 rows inserted
+PROCEDURE GETSESION compilado
+FUNCTION GETBUCKET compilado
+FUNCTION NOMBRESERVICIOFINDBYID compilado
+FUNCTION KNOWIFENCRYP compilado
+PROCEDURE PKNOWIFENCRYP compilado
+PROCEDURE GETALMACENCERT compilado
+FUNCTION GETMIMETYPEBYIDDOC compilado
+PROCEDURE PGETMIMETYPEBYIDDOC compilado
+FUNCTION CLIENTFINDNIFBYID compilado
+FUNCTION GETIDCLIENTBYIDEMPLOYEE compilado
+FUNCTION CLIENTFINDIDBYIDEMPLOYEE compilado
+FUNCTION GUESTFINDIDHOSTBYID compilado
+FUNCTION GETURLNUBE compilado
+PROCEDURE GETCONNUSER compilado
+PROCEDURE GETDEFAULTDTOANDGROUP compilado
+PROCEDURE GETCLIENTDTOANDGROUP compilado
+FUNCTION FORMAJURIDICABYNIF compilado
+FUNCTION NAMEUSERISFREE compilado
+PACKAGE PKLOGIN compilado
+Antiguo:create or replace package body pkLogin AS
+
+--
+-- Aceeso a la aplicación vía SMS
+-- xMOVIL NÚMERO DE TELEFONO MOVIL DE NUESTRO CLIENTE
+--
+Procedure GenRandomPassToSMS(xUsuario IN USUARIOS.USUARIO%TYPE, 
+xSMS_PASS OUT USUARIOS.SMS_PASS%TYPE, xENVIO OUT Char, xMOVIL out USUARIOS.MOVIL%TYPE)
+as
+xURL varchar2(1024):='http://localhost/OracleEnviarSMS.php'; --enviar SMS del saldo de Arsys
+xResp varchar2(2000);
+begin
+
+-- Escribir una contraseña aleatoria
+
+-- Guardarla en la tabla HOY más un día.
+UPDATE USUARIOS SET SMS_PASS=(SELECT dbms_random.string('X', 6) FROM DUAL), SMS_UNTIL=SYSTIMESTAMP + 1 
+	WHERE USUARIO=xUsuario AND (SMS_UNTIL IS NULL OR (SMS_UNTIL-SYSDATE<=0) )
+	RETURNING SMS_PASS,MOVIL INTO xSMS_PASS,xMOVIL;
+
+	-- sms_until-sysdate<=0 le dejas enviar 
+-- NUMERO DE MOVIL NO REGISTRADO
+IF xSMS_PASS IS NULL THEN
+	xENVIO:='N';
+	RETURN;
+ELSE
+	xENVIO:='S';
+END IF;
+
+-- ENVIAR EL SMS AL MOVIL DEL CLIENTE
+/*
+xURL:=xURL ||'?mvl=' ||xMOVIL ||'&pass=' ||xSMS_PASS;
+
+select utl_http.request(xURL) into xResp from dual;
+
+
+IF SubStr(xResp,1,2)='OK' THEN
+
+	-- ENVIO SE REALIZO CON EXITO.
+	xENVIO:='S';
+	
+ELSE
+	-- FALLO AL ENVIAR EL SMS.
+	xENVIO:='N';
+	
+END IF;
+*/
+
+end; -- GenRandomPassToSMS()
+
+--
+-- Para el movil
+--
+Procedure BySMSToUserMovil(
+			xUsuario IN USUARIOS.USUARIO%TYPE,			
+			xSMS_PASS IN USUARIOS.SMS_PASS%TYPE,
+			xREFER in varchar2,
+			xIP in varchar2,			
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIF OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS USUARIOS.DIGITOS%TYPE;
+xIDInvitado Integer;
+xIDEmpleado Integer;
+
+begin
+	-- LAS CONDICIONES SON: coincidir el número de movil, la contraseña aleatoria 
+	-- y el tiempo de caducidad de la contraseña no se ha alcanzado.
+	BEGIN
+		SELECT G.ID, U.IDCliente, U.IDInvitado, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE,U.USUARIO
+			INTO  xIDGremio, xIDCliente, xIDInvitado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE,xNIF
+			FROM USUARIOS U, GREMIOS G
+      			WHERE U.USUARIO=xUsuario
+      			AND	U.SMS_PASS=xSMS_PASS 
+      			AND U.IDGREMIO=G.ID
+      			AND U.SMS_UNTIL >= SYSTIMESTAMP;
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente
+		xIDUser:=xIDEmpleado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIF:=trim(xNIF);
+		
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, xTIPO) RETURNING ID INTO xSESION;
+			
+end;
+
+
+--
+-- CERTIFICADO x509 v3
+--
+Procedure ByX509Cert(xUsuario IN USUARIOS.USUARIO%TYPE,
+			xNIF IN USUARIOS.NIF%TYPE,
+			xREFER in varchar2,
+			xIP in varchar2,
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIFAsesor OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS VARCHAR2(16);
+xIDInvitado Integer;
+xIDEmpleado Integer;
+begin
+
+		
+	BEGIN
+	
+		
+	
+		-- Via DNIe
+		
+			SELECT G.ID, U.IDCliente, U.IDInvitado,U.IDEmpleado, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE
+			INTO  xIDGremio, xIDCliente, xIDInvitado,xIDEmpleado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE
+			FROM USUARIOS U, GREMIOS G
+      			WHERE USUARIO=xUsuario AND U.NIF=trim(xNIF) AND U.IDGREMIO=G.ID;		
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente	
+		xIDUser:=xIDEmpleado;		
+		xNIFAsesor:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIFAsesor:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIFAsesor:=trim(xNIF);
+		xIDUser:=xIDCliente;
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+   	
+   	   	
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, xTIPO) RETURNING ID INTO xSESION;
+	
+end;
+
+--
+-- COORDENADAS USUARIO Y CONTRASEÑA
+--
+Procedure ByKeyCoorUserAndPass(xPOSD1 in INTEGER, 
+			xPOSD2 in INTEGER, 
+			xDIGIT1 in varchar2, 
+			xDIGIT2 in varchar2,
+			xUSUARIO in varchar2, 
+			xPASSWD in varchar2,
+			xREFER in varchar2,
+			xIP in varchar2,
+			
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIF OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS VARCHAR2(16);
+xIDInvitado Integer;
+xIDEmpleado Integer;
+begin
+
+
+		
+	BEGIN
+	
+			SELECT G.ID, U.IDCliente, U.IDInvitado,U.IDEMPLEADO, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE
+			INTO  xIDGremio, xIDCliente, xIDInvitado,xIDEmpleado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE
+			FROM USUARIOS U, GREMIOS G
+      			WHERE U.USUARIO=xUSUARIO AND U.IDGREMIO=G.ID;
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente
+		
+		xIDUser:=xIDEmpleado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIF:=trim(xUSUARIO);
+		xIDUser:=xIDCliente;
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+   	
+   	   	
+   	-- COMPROBAR LOS DOS PRIMEROS DÍGITOS
+	IF SUBSTR(xDIGITOS,xPOSD1,2)!=xDIGIT1 THEN
+	   xPERFIL:='NO AUTORIZADO, PRIMEROS DIGITOS'||SUBSTR(xDIGITOS,xPOSD1,2);
+	   -- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+	   RETURN;
+	END IF;
+	
+	-- COMPROBAR LOS DOS SEGUNDOS DÍGITOS
+	IF SUBSTR(xDIGITOS,xPOSD2,2)!=xDIGIT2 THEN
+	   xPERFIL:='NO AUTORIZADO, SEGUNDOS DIGITOS'||SUBSTR(xDIGITOS,xPOSD2,2);
+	   -- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+	   RETURN;	
+	END IF;
+   	
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, trim(xTIPO)) RETURNING ID INTO xSESION;
+	
+end;
+END pkLogin;
+Nuevo:create or replace package body pkLogin AS
+
+--
+-- Aceeso a la aplicación vía SMS
+-- xMOVIL NÚMERO DE TELEFONO MOVIL DE NUESTRO CLIENTE
+--
+Procedure GenRandomPassToSMS(xUsuario IN USUARIOS.USUARIO%TYPE, 
+xSMS_PASS OUT USUARIOS.SMS_PASS%TYPE, xENVIO OUT Char, xMOVIL out USUARIOS.MOVIL%TYPE)
+as
+xURL varchar2(1024):='http://localhost/OracleEnviarSMS.php'; --enviar SMS del saldo de Arsys
+xResp varchar2(2000);
+begin
+
+-- Escribir una contraseña aleatoria
+
+-- Guardarla en la tabla HOY más un día.
+UPDATE USUARIOS SET SMS_PASS=(SELECT dbms_random.string('X', 6) FROM DUAL), SMS_UNTIL=SYSTIMESTAMP + 1 
+	WHERE USUARIO=xUsuario AND (SMS_UNTIL IS NULL OR (SMS_UNTIL-SYSDATE<=0) )
+	RETURNING SMS_PASS,MOVIL INTO xSMS_PASS,xMOVIL;
+
+	-- sms_until-sysdate<=0 le dejas enviar 
+	
+-- NUMERO DE MOVIL NO REGISTRADO
+IF xSMS_PASS IS NULL THEN
+	xENVIO:='N';
+	RETURN;
+ELSE
+	xENVIO:='S';
+END IF;
+
+-- ENVIAR EL SMS AL MOVIL DEL CLIENTE
+/*
+xURL:=xURL ||'?mvl=' ||xMOVIL ||'=' ||xSMS_PASS;
+
+select utl_http.request(xURL) into xResp from dual;
+
+
+IF SubStr(xResp,1,2)='OK' THEN
+
+	-- ENVIO SE REALIZO CON EXITO.
+	xENVIO:='S';
+	
+ELSE
+
+	-- FALLO AL ENVIAR EL SMS.
+	xENVIO:='N';
+	
+END IF;
+*/
+
+end; -- GenRandomPassToSMS()
+
+--
+-- Para el movil
+--
+Procedure BySMSToUserMovil(
+			xUsuario IN USUARIOS.USUARIO%TYPE,			
+			xSMS_PASS IN USUARIOS.SMS_PASS%TYPE,
+			xREFER in varchar2,
+			xIP in varchar2,			
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIF OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS USUARIOS.DIGITOS%TYPE;
+xIDInvitado Integer;
+xIDEmpleado Integer;
+
+begin
+
+	-- LAS CONDICIONES SON: coincidir el número de movil, la contraseña aleatoria 
+	-- y el tiempo de caducidad de la contraseña no se ha alcanzado.
+	BEGIN
+		SELECT G.ID, U.IDCliente, U.IDInvitado, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE,U.USUARIO
+			INTO  xIDGremio, xIDCliente, xIDInvitado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE,xNIF
+			FROM USUARIOS U, GREMIOS G
+      			WHERE U.USUARIO=xUsuario
+      			AND	U.SMS_PASS=xSMS_PASS 
+      			AND U.IDGREMIO=G.ID
+      			AND U.SMS_UNTIL >= SYSTIMESTAMP;
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente
+		xIDUser:=xIDEmpleado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIF:=trim(xNIF);
+		
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, xTIPO) RETURNING ID INTO xSESION;
+			
+end;
+
+
+--
+-- CERTIFICADO x509 v3
+--
+Procedure ByX509Cert(xUsuario IN USUARIOS.USUARIO%TYPE,
+			xNIF IN USUARIOS.NIF%TYPE,
+			xREFER in varchar2,
+			xIP in varchar2,
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIFAsesor OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS VARCHAR2(16);
+xIDInvitado Integer;
+xIDEmpleado Integer;
+begin
+
+		
+	BEGIN
+	
+		
+	
+		-- Via DNIe
+		
+			SELECT G.ID, U.IDCliente, U.IDInvitado,U.IDEmpleado, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE
+			INTO  xIDGremio, xIDCliente, xIDInvitado,xIDEmpleado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE
+			FROM USUARIOS U, GREMIOS G
+      			WHERE USUARIO=xUsuario AND U.NIF=trim(xNIF) AND U.IDGREMIO=G.ID;		
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente	
+		xIDUser:=xIDEmpleado;		
+		xNIFAsesor:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIFAsesor:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIFAsesor:=trim(xNIF);
+		xIDUser:=xIDCliente;
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+   	
+   	   	
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, xTIPO) RETURNING ID INTO xSESION;
+	
+end;
+
+--
+-- COORDENADAS USUARIO Y CONTRASEÑA
+--
+Procedure ByKeyCoorUserAndPass(xPOSD1 in INTEGER, 
+			xPOSD2 in INTEGER, 
+			xDIGIT1 in varchar2, 
+			xDIGIT2 in varchar2,
+			xUSUARIO in varchar2, 
+			xPASSWD in varchar2,
+			xREFER in varchar2,
+			xIP in varchar2,
+			
+			xPERFIL OUT varchar2,
+			xIDGremio OUT Integer, 
+			xIDCliente OUT Integer,
+			xIDUser OUT Integer,
+			xNIF OUT varchar2,
+			xMAIL OUT varchar2, 
+			xIDDatosPer OUT integer,
+			xSESION OUT Integer,
+			xTIPO OUT CHAR,
+			xNOMBRE OUT varchar2)
+as
+xDIGITOS VARCHAR2(16);
+xIDInvitado Integer;
+xIDEmpleado Integer;
+begin
+
+
+		
+	BEGIN
+			SELECT G.ID, U.IDCliente, U.IDInvitado,U.IDEMPLEADO, U.TIPO, U.IDDatosPer, U.DIGITOS, U.PERFIL, U.EMAIL,U.NOMBRE
+			INTO  xIDGremio, xIDCliente, xIDInvitado,xIDEmpleado, xTIPO, xIDDatosPer, xDIGITOS, xPERFIL, xMAIL, xNOMBRE
+			FROM USUARIOS U, GREMIOS G
+      			WHERE U.USUARIO=xUSUARIO AND U.IDGREMIO=G.ID;
+	exception
+   		when no_data_found then
+   	    begin
+  		  	xPERFIL:='NO AUTORIZADO, USUARIO O PASSWORD';
+  		  	-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+  		  RETURN;
+   		end;
+   	END;
+
+   	-- Comprobar el tipo de usuario
+   	if (xTIPO='EM') then
+	
+		-- buscar el NIF del Cliente
+		
+		xIDUser:=xIDEmpleado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='IN') THEN 
+	
+		-- Buscar al Asesor que pertenece
+		xIDUser:=xIDInvitado;
+		xNIF:=ClientFindNIFByID(xIDCliente);
+		
+	ELSIF (xTIPO='CL') THEN 
+	
+		xNIF:=trim(xUSUARIO);
+		xIDUser:=xIDCliente;
+		
+	else
+			xPERFIL:='NO AUTORIZADO, TIPO DE CLIENTE DESCONOCIDO';
+			-- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+		RETURN;
+	end if;
+   	
+   	   	
+   	-- COMPROBAR LOS DOS PRIMEROS DÍGITOS
+	IF SUBSTR(xDIGITOS,xPOSD1,2)!=xDIGIT1 THEN
+	   xPERFIL:='NO AUTORIZADO, PRIMEROS DIGITOS'||SUBSTR(xDIGITOS,xPOSD1,2);
+	   -- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+	   RETURN;
+	END IF;
+	
+	-- COMPROBAR LOS DOS SEGUNDOS DÍGITOS
+	IF SUBSTR(xDIGITOS,xPOSD2,2)!=xDIGIT2 THEN
+	   xPERFIL:='NO AUTORIZADO, SEGUNDOS DIGITOS'||SUBSTR(xDIGITOS,xPOSD2,2);
+	   -- Insertar en la tabla de sesiones
+			INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, ERROR_VAR, ESTADO) 
+			VALUES (xIDCliente, xIP, xREFER, xPERFIL, 'ERROR') RETURNING ID INTO xSESION;
+	   RETURN;	
+	END IF;
+   	
+	-- TODO ESTÁ OK.
+	INSERT INTO SESIONES (ID_CLIENTE, IP, REFER, TIPO) 
+			VALUES (xIDCliente, xIP, xREFER, trim(xTIPO)) RETURNING ID INTO xSESION;
+	
+end;
+
+END pkLogin;
+PACKAGE BODY PKLOGIN compilado
+PACKAGE PKUSERSCDP compilado
+PACKAGE BODY PKUSERSCDP compilado
+PACKAGE PKDOCSYSTEMCUSTODY compilado
+PACKAGE BODY PKDOCSYSTEMCUSTODY compilado
+PACKAGE PKCRIPTOCLOUDDP compilado
+PACKAGE BODY PKCRIPTOCLOUDDP compilado
+PACKAGE PKMENSAJES compilado
+PACKAGE BODY PKMENSAJES compilado
+PACKAGE PKSESIONES compilado
+PACKAGE BODY PKSESIONES compilado
+PACKAGE PKWORKFORCE compilado
+PACKAGE BODY PKWORKFORCE compilado
+PACKAGE PKCONSULTASFISCAL compilado
+PACKAGE BODY PKCONSULTASFISCAL compilado
+PACKAGE PKEDITUSUARIOS compilado
+PACKAGE BODY PKEDITUSUARIOS compilado
+PACKAGE PKTABLON compilado
+PACKAGE BODY PKTABLON compilado
